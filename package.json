@@ -1,0 +1,13 @@
+{
+  "name": "pazguille-mediumjs",
+  "description": "A small library that implements the Mediator Pattern in JavaScript.",
+  "version": "0.0.1",
+  "keywords": [
+    "mediator",
+    "channels",
+    "encapsulates",
+    "pattern"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}

@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pazguille/mediumjs](http://github.com/pazguille/mediumjs). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pazguille-mediumjs`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Medium JS
 
 A small library that implements the Mediator Pattern in JavaScript. The essence of the Mediator pattern is to "Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently". [Read more](http://en.wikipedia.org/wiki/Mediator_pattern)
